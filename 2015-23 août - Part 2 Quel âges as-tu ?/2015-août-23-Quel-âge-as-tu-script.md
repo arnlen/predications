@@ -9,14 +9,12 @@ Jésus disait :
 
 **Jean 3. 1-6**
 
-```
-1 Or, il y avait parmi les pharisiens un homme du nom de Nicodème, un chef des Juifs.
+> 1 Or, il y avait parmi les pharisiens un homme du nom de Nicodème, un chef des Juifs.
 2 Il vint de nuit trouver Jésus et lui dit : "Maître, nous savons que tu es un enseignant envoyé par Dieu, car personne ne peut faire ces signes miraculeux que tu fais si Dieu n'est pas avec lui."
 3 Jésus lui répondit : "En vérité, en vérité, je te le dis, **à moins de naître de nouveau**, personne ne peut voir le royaume de Dieu."
 4 Nicodème lui dit : "Comment un homme peut-il naître quand il est vieux ? Peut-il une seconde fois entrer dans le ventre de sa mère et naître ?"
 5 Jésus répondit : "En vérité, en vérité, je te le dis, **à moins de naître d'eau et d'Esprit**, on ne peut entrer dans le royaume de Dieu."
 6 Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.
-```
 
 *Prière d'introduction*
 
