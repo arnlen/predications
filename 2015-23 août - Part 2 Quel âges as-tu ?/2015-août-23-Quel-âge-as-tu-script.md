@@ -13,7 +13,7 @@ Jésus disait :
 > 2 Il vint de nuit trouver Jésus et lui dit : "Maître, nous savons que tu es un enseignant envoyé par Dieu, car personne ne peut faire ces signes miraculeux que tu fais si Dieu n'est pas avec lui."
 > 3 Jésus lui répondit : "En vérité, en vérité, je te le dis, **à moins de naître de nouveau**, personne ne peut voir le royaume de Dieu."
 > 4 Nicodème lui dit : "Comment un homme peut-il naître quand il est vieux ? Peut-il une seconde fois entrer dans le ventre de sa mère et naître ?"
-> 5 Jésus répondit : "En vérité, en vérité, je te le dis, **à moins de naître d'eau et d'Esprit**, on ne peut entrer dans le royaume de Dieu."
+> **[CLIC]** 5 Jésus répondit : "En vérité, en vérité, je te le dis, **à moins de naître d'eau et d'Esprit**, on ne peut entrer dans le royaume de Dieu."
 > 6 Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.
 
 *Prière d'introduction*
@@ -43,7 +43,7 @@ Il y a grande différence entre naissance spirituelle et naturelle : **la volont
 - En 2008 j'ai réalisé à quel point Il m'aimait vraiment, et tout a changé après cette expérience.
 - Quelques mois après cette révélation, le 15 février 2009, j'étais à Pontoise, dans une eau pas si chaude, et Philippe Dibling - mon pasteur de l'époque - me baptisait.
 - En ce qui me concerne, j'estime donc que ma nouvelle naissance a eu lieu il y a à peu-près 7 ans.
-- Je suis donc fier de vous annoncer que vous avez devant vous, un homme de 7 ans. :)
+- Je suis donc fier de vous annoncer que vous avez devant vous, **[CLIC]** un homme de 7 ans. :)
 
 Comme vous vous en doutez, les années de nos vies "spirituelles" n'ont pas du tout la même signification de nos années terrestres.
 - on n'a jamais vu un professeur de collège/lycée qui soit âgé de 7 ans
@@ -51,6 +51,7 @@ Comme vous vous en doutez, les années de nos vies "spirituelles" n'ont pas du t
 
 Comme je vous le disais, grandir n'est pas automatique.
 - Je vais vous raconter un peu comment j'en suis arriver là pour que vous compreniez un peu là où je veux en venir.
+- **[CLIC]** Au revoir sympathique gamin
 
 *Témoignage*
 - En 2009, juste après mon baptême, les responsables du groupe de jeunes de l'époque ont commencé à me confier quelques tâches : organiser une sortie avec les jeunes, préparer un exposé sur un sujet ou prier à haute voix lors des rencontres.
@@ -74,7 +75,7 @@ On peut rester toute sa vie un bébé spirituel, mais Dieu nous appelle à bien 
 - Dieu nous appelle à devenir des hommes et des femmes mâture, remplis du St-Esprit.
 - Stable et solides dans la foi.
 - Des chrétiens appuyés sur le roc, Jésus-Christ, des chrétiens sur lesquels Dieu peut s'appuyer pour continuer à bâtir son église.
-- Ecoutez bien ceci : nous sommes **tous** appelés, sans exception, à être des **baptiseurs** pour Dieu. *répéter en insistant*
+- Ecoutez bien ceci : **[CLIC]** nous sommes **tous** appelés, sans exception, à être des **baptiseurs** pour Dieu. *répéter en insistant*
 
 ### Résumé été dernier
 
@@ -94,9 +95,9 @@ Nous avions vu ensemble les 3 premiers points, et sans précher de nouveau, voic
 - **Être un disciple** : dernier point, la connaissance de la Parole de Dieu est essentielle pour grandir. Dieu nous encourage tous à nous faire "un peu violence", et à trouver un moment pour lire la Bible quotidiennement. Même si c’est très peu au début, garde courage, car Dieu te bénira et récompensera largement ces efforts.
 
 Aujourd'hui, je vous propose que nous regardions ensemble aux deux derniers points, à savoir le service dans et en-dehors de l'église.
-Mais juste avant cela, il est essentiel que je parle de quelque chose de **capital**, *en insistant*, de **vital** pour tout chrétien souhaitant devenir mâture.
+Mais juste avant cela, il est essentiel que je parle de quelque chose de **capital**, *en insistant*, de **vital** pour tout chrétien souhaitant devenir mâture :
+- **[CLIC]** Savoir rechercher et acquérir le discernement
 - Pour cela, prenons **Hébreux 5. 11-14**
-
 
 ## 2. Acquiers le discernement
 
@@ -134,7 +135,7 @@ Cependant l'auteur de la lettre n'est pas du tout dans une optique de culpabilis
 - Il fait remarquer lorsque ça ne va pas, mais n'enfonce jamais personne.
 - Car son but n'est pas de détruire ou de perdre, mais de produire une réaction en nous, réaction qui amènera la/les personnes à changer, à ainsi mener une vie meilleur, et pour finalement parvenir au salut
 
-Relisons le verset 14 :
+Relisons le verset 14 : **[CLIC]**
 > Mais la nourriture solide est pour les **adultes**, pour ceux qui, en raison de leur expérience, ont le **jugement exercé à discerner ce qui est bien et ce qui est mal**.
 
 Cce verset comporte un clé pour devenir adulte
@@ -143,7 +144,7 @@ Cce verset comporte un clé pour devenir adulte
 
 ### Ne croyez pas sur parole
 
-Prenons **Actes 17. 10-11**
+**[CLIC]** Prenons **Actes 17. 10-11**
 
 *Context* :
 - Paul et Silas viennent d'être évacués d'urgence et en pleine nuit de la ville de Thessalonique, parce que des juifs incrédules en voulaient à leurs vies.
@@ -168,7 +169,7 @@ J'espère ne choquer personne en disant ça, car croyez-moi, ce n'est pas mon bu
 
 Pour bien comprendre, relisons ensemble ce verset que je trouve magnifique :
 
-> Ils accueillirent la parole avec **beaucoup d'empressement**, et ils **examinaient** chaque jour les Ecritures pour **voir si ce qu'on leur disait était exact**.
+> **[CLIC]** Ils accueillirent la parole avec **beaucoup d'empressement**, et ils **examinaient** chaque jour les Ecritures pour **voir si ce qu'on leur disait était exact**.
 
 Ici, Luc - inspiré par Dieu - nous décrit une scène magnifique :
 - des juifs, récemment touché par la puissance de l'évangile, s'empressent d'accueillir la Parole de Dieu.
@@ -211,7 +212,7 @@ La lettre aux hébreux nous invite à examiner la Bible.
 
 J'ai pour habitude de dire que la Bible est un livre concret et pratique.
 - C'est pourquoi je recherche toujours une façon pratique et concrète d'appliquer la volonté de Dieu
-- Voici 3 moyens concrets que je vous propose pour exercer votre discernement :
+- **[CLIC]** Voici 3 moyens concrets que je vous propose pour exercer votre discernement :
 
 1. **Prenez votre Bible le dimanche matin**, et suivez autant que possible les versets cités par le prédicateur.
    - Non seulement ça vous aidera à ne pas vous endormir si la semaine a été un peu longue, mais ça vous aidera aussi à faire votre ces versets que Dieu à écris pour vous.
@@ -249,7 +250,7 @@ Tout ceci étant dit, je me dois tout de même d'apporter une précision **essen
 > 30 Et si un autre membre de l’assistance a une révélation, que le premier se taise.
 > 31 En effet, vous pouvez tous prophétiser l'un après l'autre, afin que tous soient instruits et que tous soient encouragés.
 > 32 L’esprit des prophètes est soumis aux prophètes,
-> 33 car **Dieu n'est pas un Dieu de désordre, mais de paix**. Comme dans toutes les Eglises des saints,
+> **[CLIC]** 33 car **Dieu n'est pas un Dieu de désordre, mais de paix**. Comme dans toutes les Eglises des saints,
 > [...]
 > 39 Ainsi donc, frères et sœurs, aspirez au don de prophétie et n'empêchez pas de parler en langues,
 > 40 mais **que tout se fasse convenablement et avec ordre**.
@@ -271,14 +272,14 @@ Pour terminer, retenons donc que Dieu souhaite que nous ayons plus de discerneme
 - Apprenons à ne plus répondre **"Je ne sais pas"** ou **"On m'a dit que"**, mais à affirmer avec conviction **"Voici ce que dit la Parole de Dieu..."** ou encore comme Jésus **"Il est écrit..."**.
 - Ainsi serons de plus en plus mâture, et Dieu sera en mesure de nous utiliser de plus en plus, même dans les situations les plus délicates.
 
-Dernier volet que j'aimerai aborder sur cette thématique de "Devenir un chrétien mâture", c'est ce sont je parlais au début de ce message, à savoir le fait de servir.
+Dernier volet que j'aimerai aborder sur cette thématique de "Devenir un chrétien mâture", c'est ce sont je parlais au début de ce message, à savoir le fait de **servir**.
 
 ## 3. Développe ton coeur de serviteur/servante
 
 Tout à l'heure je vous partageais mon témoignage sur comment j'ai commencé à servir Dieu dans l'église.
 
 Jésus a dit a Pierre et son frère André
-> "**Suivez-moi**, et **je ferai** de vous des pêcheurs d'hommes".
+> **[CLIC]** "**Suivez-moi**, et **je ferai** de vous des pêcheurs d'hommes".
 
 Première rencontre, Jésus annonce la couleur :
 - "venez, suivez-moi, je vais faire quelque chose avec vous".
@@ -302,7 +303,7 @@ Alors en effet : Jésus était Dieu.
 - **fort** Non !
 
 **Jean 14. 12**
-> En vérité, en vérité, je vous le dis, celui qui croit en moi **fera aussi** les oeuvres que je fais, et il en fera **de plus grandes**, parce que je m'en vais au Père.
+> **[CLIC]** En vérité, en vérité, je vous le dis, celui qui croit en moi **fera aussi** les oeuvres que je fais, et il en fera **de plus grandes**, parce que je m'en vais au Père.
 
 - *voix plus faibles* Discernement n'oubliez pas hein ! ;)
 
@@ -321,7 +322,7 @@ Aucun chrétien n'est appelé
 
 Il est bon de faire ça, mais nous ne sommes pas appelés à faire **que** ça.
 - Cette partie de notre vie chrétienne doit-être juste une petite partie.
-- Le culte du dimanche ne peut pas être le centre de notre vie chrétienne, c'est **impossible** !
+- **[CLIC]** Le culte du dimanche ne peut/doit pas être le centre de ma/ta vie chrétienne, c'est **impossible** !
 
 Le témoignage que je vous ai raconté au début de ce message, sur la façon avec laquelle j'ai appris en étant responsable de jeunes, c'était pour mettre l'accent là-dessus :
 - je ne serai jamais là devant-vous ce matin si, depuis mon baptême en 2009, j'étais resté sagement installé sur ma chaise chaque dimanche sans jamais franchir le pas de l'engagement.
@@ -356,13 +357,13 @@ Ne croyez pas les mensonges de l'ennemi qui vous dit
 *en incistant* **C'est faux !**
 
 Car il est écrit :
-> Car mon joug est doux, et mon fardeau léger." (Matthieu 11. 30)
+> **[CLIC]** Car mon joug est doux, et mon fardeau léger." (Matthieu 11. 30)
 
 Et il est encore écrit :
-> Aujourd'hui, si vous entendez la voix de Dieu, ne vous endurcissez pas" (Hébreux 4. 7)
+> **[CLIC]** Aujourd'hui, si vous entendez la voix de Dieu, ne vous endurcissez pas" (Hébreux 4. 7)
 
 Et plus haut toujours en Hébreux au chap. 3 cette fois-ci :
-> Mais encouragez-vous les uns les autres, jour après jour, aussi longtemps qu'on peut dire aujourd'hui, afin qu'aucun d'entre vous ne se laisse tomber par le péché et ne s'endurcisse." (Hébreux 3. 14)
+> **[CLIC]** Mais encouragez-vous les uns les autres, jour après jour, aussi longtemps qu'on peut dire aujourd'hui, afin qu'aucun d'entre vous ne se laisse tomber par le péché et ne s'endurcisse." (Hébreux 3. 14)
 
 C'est aujourd'hui que Dieu parle, et c'est aujourd'hui qu'il faut agir.
 - Si je vous disais autre chose, je mentirai.
@@ -413,12 +414,14 @@ Grandir c'est comme les antibiotiques : c'est pas automatique
 - On peut rester toute sa vie un bébé spirituel,
 - mais Dieu nous appelle à bien davantage !
 
-Cherchons à acquérir toujours plus de discernement.
+Bien davantage ça passe par :
+
+Chercher à acquérir toujours plus de discernement.
 - Je nous encourage tous à écouter des prédications sur TopChrétien, à installer l'application sur vos téléphones si vous le souhaitez et le pouvez.
 - A lire des enseignements sur Internet, à visiter d'autres églises pour voir d'autres façons de faire et entendre d'autres enseignements.
 - Et dans tout ça, à rester fermement ancré dans la Parole, en examinant toujours si ce que l'on vous dit est conforme à l'enseignement de Dieu.
 
-Cherchons à développer notre coeur de serviteur et de servante.
+Chercher à développer notre coeur de serviteur et de servante.
 - J'ai la conviction que Dieu tient en réserve des bénédictions depuis des années pour plusieurs parmi-nous, et que ces bénédictions ne seront déversées dans nos vies qu'à partir du moment où ces personnes oseront franchir le pas de servir dans l'église.
 - N'écoutez pas les mensonges de Satan qui cherche à vous faire repousser le jour où vous entrerez au service pour Dieu, car il sait que ce jour-là, il aura perdu une bataille.
 - Je nous encourage tous à franchir le pas aujourd'hui si ce n'est pas déjà fait, et si c'est déjà fait à réévaluer la qualité du service que nous accomplissons, et si nous jugeons qu'il faut prendre un nouveau départ avec Dieu dans le service, remplissez la petite garde et déposez-la dans l'urne en sortant.
