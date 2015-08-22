@@ -53,7 +53,6 @@ Comme je vous le disais, grandir n'est pas automatique.
 - Je vais vous raconter un peu comment j'en suis arriver là pour que vous compreniez un peu là où je veux en venir.
 
 *Témoignage*
-```
 - En 2009, juste après mon baptême, les responsables du groupe de jeunes de l'époque ont commencé à me confier quelques tâches : organiser une sortie avec les jeunes, préparer un exposé sur un sujet ou prier à haute voix lors des rencontres.
 - Ca me plaisait beaucoup, j'avais soif d'en apprendre davantage sur Dieu et de faire plus de choses.
 - Après quelques mois, ils ont demandé l'autorisation à Philippe de m'intégrer au sein de l'équipe des responsables.
@@ -62,7 +61,6 @@ Comme je vous le disais, grandir n'est pas automatique.
 - Je me souviens que Philippe nous proposait régulièrement des formations sur différents sujets autant pratiques que spirituels : comment déléguer, comment être un bon leader/meneur, comment prendre la parole en public, comment étudier un texte biblique, comment entendre la voix de Dieu, comment préparer un sujet à présenter, comment prier, et d'autres que j'ai sans doute oublier.
 - Il m'a fallu aussi apprendre à m'organiser pour pouvoir gérer les rencontres de notre groupe, et également passer mon permis le plus vite possible afin d'être en mesure d'assurer le transport des jeunes
 - J'ai servi Dieu auprès des jeunes pendant 4 ans, jusqu'en 2013, et alors qu'à l'époque j'étais en position d'enseignant, je me rends compte avec le recul que c'était en fait **moi qui étais à l'école de Dieu**.
-```
 
 Je ne dis pas ça pour me mettre en avant, nullement :
 - pour tout ce que j'ai vécu, que toute gloire revienne à Dieu,
@@ -125,7 +123,7 @@ Lisons ensenmble **Hébreux 5. 11-14**.
 > 11 Nous avons beaucoup à dire à ce sujet, et des choses difficiles à expliquer parce que vous êtes **devenus lents à comprendre**.
 12 Alors que vous devriez avec le temps être des **enseignants**, vous en êtes au point d’avoir besoin qu'on vous enseigne **les éléments de base** de la révélation de Dieu ; vous en êtes arrivés à avoir > besoin de **lait** et non d'une **nourriture solide**.
 > 13 Or celui qui en est au lait est inexpérimenté dans la parole de justice, car il est un petit enfant.
-> 14 Mais la nourriture solide est pour les adultes, pour ceux qui, en raison de leur expérience, ont le jugement **exercé à discerner ce qui est bien et ce qui est mal**.
+> 14 Mais la nourriture solide est pour les **adultes**, pour ceux qui, en raison de leur expérience, ont le jugement **exercé à discerner ce qui est bien et ce qui est mal**.
 
 Ce passage a dû être dur à recevoir pour les destinataires de cette lettre.
 - comparaison avec l'église de Vauréal : je prends toute l'assemblée, et je vous dis "Retour à l'éveil à la foi"
@@ -137,7 +135,7 @@ Cependant l'auteur de la lettre n'est pas du tout dans une optique de culpabilis
 - Car son but n'est pas de détruire ou de perdre, mais de produire une réaction en nous, réaction qui amènera la/les personnes à changer, à ainsi mener une vie meilleur, et pour finalement parvenir au salut
 
 Relisons le verset 14 :
-> Mais la nourriture solide est pour les adultes, pour ceux qui, en raison de leur expérience, ont le jugement exercé à discerner ce qui est bien et ce qui est mal.
+> Mais la nourriture solide est pour les **adultes**, pour ceux qui, en raison de leur expérience, ont le **jugement exercé à discerner ce qui est bien et ce qui est mal**.
 
 Cce verset comporte un clé pour devenir adulte
 - Dieu met ici en parallèle le fait d'être "adulte" et le fait d'avoir "le jugement exercé à discerner le bien et le mal"
@@ -152,7 +150,7 @@ Prenons **Actes 17. 10-11**
 - Ils arrivent dans la ville de Bérée.
 
 > 10 [...] Dès leur arrivée, ils entrèrent dans la synagogue des Juifs.
-> 11 Ces derniers avaient des sentiments plus nobles que ceux de Thessalonique. Ils accueillirent la parole avec *beaucoup d'empressement*, et ils *examinaient* chaque jour les Ecritures pour *voir si ce qu'on leur disait était exact*.
+> 11 Ces derniers avaient des sentiments plus nobles que ceux de Thessalonique. Ils accueillirent la parole avec **beaucoup d'empressement**, et ils **examinaient** chaque jour les Ecritures pour **voir si ce qu'on leur disait était exact**.
 
 Mes amis : Dieu ne nous appelle pas à croire **tout ce qu'on nous dit sans réfléchir**.
 - Je vais le dire autrement : **ne croyez pas tout ce qu'on vous dit**.
@@ -170,7 +168,7 @@ J'espère ne choquer personne en disant ça, car croyez-moi, ce n'est pas mon bu
 
 Pour bien comprendre, relisons ensemble ce verset que je trouve magnifique :
 
-> Ils accueillirent la parole avec *beaucoup d'empressement*, et ils *examinaient* chaque jour les Ecritures pour *voir si ce qu'on leur disait était exact*.
+> Ils accueillirent la parole avec **beaucoup d'empressement**, et ils **examinaient** chaque jour les Ecritures pour **voir si ce qu'on leur disait était exact**.
 
 Ici, Luc - inspiré par Dieu - nous décrit une scène magnifique :
 - des juifs, récemment touché par la puissance de l'évangile, s'empressent d'accueillir la Parole de Dieu.
@@ -216,21 +214,21 @@ J'ai pour habitude de dire que la Bible est un livre concret et pratique.
 - Voici 3 moyens concrets que je vous propose pour exercer votre discernement :
 
 1. **Prenez votre Bible le dimanche matin**, et suivez autant que possible les versets cités par le prédicateur.
---- Non seulement ça vous aidera à ne pas vous endormir si la semaine a été un peu longue, mais ça vous aidera aussi à faire votre ces versets que Dieu à écris pour vous.
+   - Non seulement ça vous aidera à ne pas vous endormir si la semaine a été un peu longue, mais ça vous aidera aussi à faire votre ces versets que Dieu à écris pour vous.
 
 2. **Prenez des notes durant le message** :
---- les références des versets, les points clés, les titres des sections.
---- J'écris volontairement le titre de chacun de mes points en haut de l'écran pour vous aider à structurer vos notes, et que vous puissiez écrire les références des versets concernant chaque thématique.
+   - les références des versets, les points clés, les titres des sections.
+   - J'écris volontairement le titre de chacun de mes points en haut de l'écran pour vous aider à structurer vos notes, et que vous puissiez écrire les références des versets concernant chaque thématique.
 
 3. **Écoutez d'autres sons de cloche** :
---- Par exemple, écoutez des prédications sur Internet.
---- Je vous recommande notamment le site TopChrétien.
---- Vous pouvez vous rendre dans la section TopMessage, et là vous aurez accès à des centaines de messages audio et vidéo.
---- Vous êtes en voiture pour 15/20 minutes ? Plutôt que d'écouter France Info qui répète toutes les 15 minutes les mêmes infos qu'on a déjà entendu, pourquoi ne pas écouter un message tout en roulant ?
---- On l'a fait avec Wendy sur le chemin des vacances et on a été particulièrement touchés par ce qu'on a entendu.
---- N'ayez pas peur d'écouter autre chose, y compris des choses mauvaises : si on ne se confronte jamais à de feux évangiles, on risque de ne pas savoir les démarsquer le moment venu.
---- Le but c'est de réussir à dire "Ce qui est dit ici est faux, car voici ce que dit la Parole"
---- et non pas "Ce que tu dis est faux car mon pasteur dit le contraire"
+   - Par exemple, écoutez des prédications sur Internet.
+   - Je vous recommande notamment le site TopChrétien.
+   - Vous pouvez vous rendre dans la section TopMessage, et là vous aurez accès à des centaines de messages audio et vidéo.
+   - Vous êtes en voiture pour 15/20 minutes ? Plutôt que d'écouter France Info qui répète toutes les 15 minutes les mêmes infos qu'on a déjà entendu, pourquoi ne pas écouter un message tout en roulant ?
+   - On l'a fait avec Wendy sur le chemin des vacances et on a été particulièrement touchés par ce qu'on a entendu.
+   - N'ayez pas peur d'écouter autre chose, y compris des choses mauvaises : si on ne se confronte jamais à de feux évangiles, on risque de ne pas savoir les démarsquer le moment venu.
+   - Le but c'est de réussir à dire "Ce qui est dit ici est faux, car voici ce que dit la Parole"
+   - et non pas "Ce que tu dis est faux car mon pasteur dit le contraire"
 
 Pour continuer sur ce point :
 - Emmanuel, est un homme à abattre pour Satan, car il enseigne le peuple de Dieu.
@@ -280,7 +278,7 @@ Dernier volet que j'aimerai aborder sur cette thématique de "Devenir un chréti
 Tout à l'heure je vous partageais mon témoignage sur comment j'ai commencé à servir Dieu dans l'église.
 
 Jésus a dit a Pierre et son frère André
-> "Suivez-moi, et je ferai de vous des pêcheurs d'hommes".
+> "**Suivez-moi**, et **je ferai** de vous des pêcheurs d'hommes".
 
 Première rencontre, Jésus annonce la couleur :
 - "venez, suivez-moi, je vais faire quelque chose avec vous".
@@ -385,9 +383,9 @@ Je sais qu'il y a
 Voici donc ce que nous allons faire :
 - je vais vous faire passer de petites cartes, sur lesquelles il est inscrit "Je veux devenir un chrétien mâture en servant Dieu..."
 - En dessous il y a deux cases :
---- "... mais je ne sais pas ce que je pourrai faire"
---- "... et je sais ce que je veux faire pour Dieu"
---- "... je sers déjà mais j'ai besoin de plus/d'autre chose"
+   - "... mais je ne sais pas ce que je pourrai faire"
+   - "... et je sais ce que je veux faire pour Dieu"
+   - "... je sers déjà mais j'ai besoin de plus/d'autre chose"
 
 Si vous voulez tenter l'expérience de servir Dieu - et je nous y encourage tous sans exception, car Dieu va manifester sa gloire au sein de ses serviteurs - je vous invite à remplir cette petite carte, et à la mettre dans la boîte qui se trouvera dans le hall d'entrée.
 - Ça n'engage absolument à rien.
