@@ -10,11 +10,11 @@ Jésus disait :
 **Jean 3. 1-6**
 
 > 1 Or, il y avait parmi les pharisiens un homme du nom de Nicodème, un chef des Juifs.
-2 Il vint de nuit trouver Jésus et lui dit : "Maître, nous savons que tu es un enseignant envoyé par Dieu, car personne ne peut faire ces signes miraculeux que tu fais si Dieu n'est pas avec lui."
-3 Jésus lui répondit : "En vérité, en vérité, je te le dis, **à moins de naître de nouveau**, personne ne peut voir le royaume de Dieu."
-4 Nicodème lui dit : "Comment un homme peut-il naître quand il est vieux ? Peut-il une seconde fois entrer dans le ventre de sa mère et naître ?"
-5 Jésus répondit : "En vérité, en vérité, je te le dis, **à moins de naître d'eau et d'Esprit**, on ne peut entrer dans le royaume de Dieu."
-6 Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.
+> 2 Il vint de nuit trouver Jésus et lui dit : "Maître, nous savons que tu es un enseignant envoyé par Dieu, car personne ne peut faire ces signes miraculeux que tu fais si Dieu n'est pas avec lui."
+> 3 Jésus lui répondit : "En vérité, en vérité, je te le dis, **à moins de naître de nouveau**, personne ne peut voir le royaume de Dieu."
+> 4 Nicodème lui dit : "Comment un homme peut-il naître quand il est vieux ? Peut-il une seconde fois entrer dans le ventre de sa mère et naître ?"
+> 5 Jésus répondit : "En vérité, en vérité, je te le dis, **à moins de naître d'eau et d'Esprit**, on ne peut entrer dans le royaume de Dieu."
+> 6 Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.
 
 *Prière d'introduction*
 
@@ -53,6 +53,7 @@ Comme je vous le disais, grandir n'est pas automatique.
 - Je vais vous raconter un peu comment j'en suis arriver là pour que vous compreniez un peu là où je veux en venir.
 
 *Témoignage*
+```
 - En 2009, juste après mon baptême, les responsables du groupe de jeunes de l'époque ont commencé à me confier quelques tâches : organiser une sortie avec les jeunes, préparer un exposé sur un sujet ou prier à haute voix lors des rencontres.
 - Ca me plaisait beaucoup, j'avais soif d'en apprendre davantage sur Dieu et de faire plus de choses.
 - Après quelques mois, ils ont demandé l'autorisation à Philippe de m'intégrer au sein de l'équipe des responsables.
@@ -61,10 +62,15 @@ Comme je vous le disais, grandir n'est pas automatique.
 - Je me souviens que Philippe nous proposait régulièrement des formations sur différents sujets autant pratiques que spirituels : comment déléguer, comment être un bon leader/meneur, comment prendre la parole en public, comment étudier un texte biblique, comment entendre la voix de Dieu, comment préparer un sujet à présenter, comment prier, et d'autres que j'ai sans doute oublier.
 - Il m'a fallu aussi apprendre à m'organiser pour pouvoir gérer les rencontres de notre groupe, et également passer mon permis le plus vite possible afin d'être en mesure d'assurer le transport des jeunes
 - J'ai servi Dieu auprès des jeunes pendant 4 ans, jusqu'en 2013, et alors qu'à l'époque j'étais en position d'enseignant, je me rends compte avec le recul que c'était en fait **moi qui étais à l'école de Dieu**.
+```
 
-=> Je ne dis pas ça pour me mettre en avant, nullement : pour tout ce que j'ai vécu, que toute gloire revienne à Dieu, car c'est Lui qui a fait ce qu'Il voulait, et qui m'a guidé sans même que je ne m'en rende compte bien souvent.
-=> J'ai simplement compris ceci : 4 années de vie chrétienne, au service de Dieu, **ne valent pas du tout** 4 ans de vie chrétienne, à venir à l'église uniquement le dimanche matin.
-=> J'ai grandi, non du fait des années qui ont passé, mais du fait des **expériences** que j'ai faite avec Dieu.
+Je ne dis pas ça pour me mettre en avant, nullement :
+- pour tout ce que j'ai vécu, que toute gloire revienne à Dieu,
+- car c'est Lui qui a fait ce qu'Il voulait, et qui m'a guidé sans même que je ne m'en rende compte bien souvent.
+
+J'ai simplement compris ceci :
+- 4 années de vie chrétienne, au service de Dieu, **ne valent pas du tout** 4 ans de vie chrétienne, à venir à l'église uniquement le dimanche matin.
+- J'ai grandi, non du fait des années qui ont passé, mais du fait des **expériences** que j'ai faite avec Dieu.
 
 On peut rester toute sa vie un bébé spirituel, mais Dieu nous appelle à bien davantage !
 - Dieu nous appelle à devenir des hommes et des femmes mâture, remplis du St-Esprit.
@@ -116,12 +122,10 @@ Sachez donc que la lettre aux hébreux est très mystérieuse :
 
 Lisons ensenmble **Hébreux 5. 11-14**.
 
-```
-11 Nous avons beaucoup à dire à ce sujet, et des choses difficiles à expliquer parce que vous êtes **devenus lents à comprendre**.
-12 Alors que vous devriez avec le temps être des **enseignants**, vous en êtes au point d’avoir besoin qu'on vous enseigne **les éléments de base** de la révélation de Dieu ; vous en êtes arrivés à avoir besoin de **lait** et non d'une **nourriture solide**.
-13 Or celui qui en est au lait est inexpérimenté dans la parole de justice, car il est un petit enfant.
-14 Mais la nourriture solide est pour les adultes, pour ceux qui, en raison de leur expérience, ont le jugement **exercé à discerner ce qui est bien et ce qui est mal**.
-```
+> 11 Nous avons beaucoup à dire à ce sujet, et des choses difficiles à expliquer parce que vous êtes **devenus lents à comprendre**.
+12 Alors que vous devriez avec le temps être des **enseignants**, vous en êtes au point d’avoir besoin qu'on vous enseigne **les éléments de base** de la révélation de Dieu ; vous en êtes arrivés à avoir > besoin de **lait** et non d'une **nourriture solide**.
+> 13 Or celui qui en est au lait est inexpérimenté dans la parole de justice, car il est un petit enfant.
+> 14 Mais la nourriture solide est pour les adultes, pour ceux qui, en raison de leur expérience, ont le jugement **exercé à discerner ce qui est bien et ce qui est mal**.
 
 Ce passage a dû être dur à recevoir pour les destinataires de cette lettre.
 - comparaison avec l'église de Vauréal : je prends toute l'assemblée, et je vous dis "Retour à l'éveil à la foi"
@@ -132,8 +136,10 @@ Cependant l'auteur de la lettre n'est pas du tout dans une optique de culpabilis
 - Il fait remarquer lorsque ça ne va pas, mais n'enfonce jamais personne.
 - Car son but n'est pas de détruire ou de perdre, mais de produire une réaction en nous, réaction qui amènera la/les personnes à changer, à ainsi mener une vie meilleur, et pour finalement parvenir au salut
 
-Relisons le verset 14 : "*Mais la nourriture solide est pour les adultes, pour ceux qui, en raison de leur expérience, ont le jugement exercé à discerner ce qui est bien et ce qui est mal.*"
-- ce verset comporte un clé pour devenir adulte
+Relisons le verset 14 :
+> Mais la nourriture solide est pour les adultes, pour ceux qui, en raison de leur expérience, ont le jugement exercé à discerner ce qui est bien et ce qui est mal.
+
+Cce verset comporte un clé pour devenir adulte
 - Dieu met ici en parallèle le fait d'être "adulte" et le fait d'avoir "le jugement exercé à discerner le bien et le mal"
 - le discernement, voici une clé **essentiel** pour devenir adulte.
 
@@ -145,10 +151,8 @@ Prenons **Actes 17. 10-11**
 - Paul et Silas viennent d'être évacués d'urgence et en pleine nuit de la ville de Thessalonique, parce que des juifs incrédules en voulaient à leurs vies.
 - Ils arrivent dans la ville de Bérée.
 
-```
-10 [...] Dès leur arrivée, ils entrèrent dans la synagogue des Juifs.
-11 Ces derniers avaient des sentiments plus nobles que ceux de Thessalonique. Ils accueillirent la parole avec *beaucoup d'empressement*, et ils *examinaient* chaque jour les Ecritures pour *voir si ce qu'on leur disait était exact*.
-```
+> 10 [...] Dès leur arrivée, ils entrèrent dans la synagogue des Juifs.
+> 11 Ces derniers avaient des sentiments plus nobles que ceux de Thessalonique. Ils accueillirent la parole avec *beaucoup d'empressement*, et ils *examinaient* chaque jour les Ecritures pour *voir si ce qu'on leur disait était exact*.
 
 Mes amis : Dieu ne nous appelle pas à croire **tout ce qu'on nous dit sans réfléchir**.
 - Je vais le dire autrement : **ne croyez pas tout ce qu'on vous dit**.
@@ -165,7 +169,8 @@ Pourquoi ? Parce que nous sommes humains.
 J'espère ne choquer personne en disant ça, car croyez-moi, ce n'est pas mon but.
 
 Pour bien comprendre, relisons ensemble ce verset que je trouve magnifique :
-- "Ils accueillirent la parole avec *beaucoup d'empressement*, et ils *examinaient* chaque jour les Ecritures pour *voir si ce qu'on leur disait était exact*."
+
+> Ils accueillirent la parole avec *beaucoup d'empressement*, et ils *examinaient* chaque jour les Ecritures pour *voir si ce qu'on leur disait était exact*.
 
 Ici, Luc - inspiré par Dieu - nous décrit une scène magnifique :
 - des juifs, récemment touché par la puissance de l'évangile, s'empressent d'accueillir la Parole de Dieu.
@@ -211,21 +216,21 @@ J'ai pour habitude de dire que la Bible est un livre concret et pratique.
 - Voici 3 moyens concrets que je vous propose pour exercer votre discernement :
 
 1. **Prenez votre Bible le dimanche matin**, et suivez autant que possible les versets cités par le prédicateur.
-- Non seulement ça vous aidera à ne pas vous endormir si la semaine a été un peu longue, mais ça vous aidera aussi à faire votre ces versets que Dieu à écris pour vous.
+--- Non seulement ça vous aidera à ne pas vous endormir si la semaine a été un peu longue, mais ça vous aidera aussi à faire votre ces versets que Dieu à écris pour vous.
 
 2. **Prenez des notes durant le message** :
-- les références des versets, les points clés, les titres des sections.
-- J'écris volontairement le titre de chacun de mes points en haut de l'écran pour vous aider à structurer vos notes, et que vous puissiez écrire les références des versets concernant chaque thématique.
+--- les références des versets, les points clés, les titres des sections.
+--- J'écris volontairement le titre de chacun de mes points en haut de l'écran pour vous aider à structurer vos notes, et que vous puissiez écrire les références des versets concernant chaque thématique.
 
 3. **Écoutez d'autres sons de cloche** :
-- Par exemple, écoutez des prédications sur Internet.
-- Je vous recommande notamment le site TopChrétien.
-- Vous pouvez vous rendre dans la section TopMessage, et là vous aurez accès à des centaines de messages audio et vidéo.
-- Vous êtes en voiture pour 15/20 minutes ? Plutôt que d'écouter France Info qui répète toutes les 15 minutes les mêmes infos qu'on a déjà entendu, pourquoi ne pas écouter un message tout en roulant ?
-- On l'a fait avec Wendy sur le chemin des vacances et on a été particulièrement touchés par ce qu'on a entendu.
-- N'ayez pas peur d'écouter autre chose, y compris des choses mauvaises : si on ne se confronte jamais à de feux évangiles, on risque de ne pas savoir les démarsquer le moment venu.
-- Le but c'est de réussir à dire "Ce qui est dit ici est faux, car voici ce que dit la Parole"
-- et non pas "Ce que tu dis est faux car mon pasteur dit le contraire"
+--- Par exemple, écoutez des prédications sur Internet.
+--- Je vous recommande notamment le site TopChrétien.
+--- Vous pouvez vous rendre dans la section TopMessage, et là vous aurez accès à des centaines de messages audio et vidéo.
+--- Vous êtes en voiture pour 15/20 minutes ? Plutôt que d'écouter France Info qui répète toutes les 15 minutes les mêmes infos qu'on a déjà entendu, pourquoi ne pas écouter un message tout en roulant ?
+--- On l'a fait avec Wendy sur le chemin des vacances et on a été particulièrement touchés par ce qu'on a entendu.
+--- N'ayez pas peur d'écouter autre chose, y compris des choses mauvaises : si on ne se confronte jamais à de feux évangiles, on risque de ne pas savoir les démarsquer le moment venu.
+--- Le but c'est de réussir à dire "Ce qui est dit ici est faux, car voici ce que dit la Parole"
+--- et non pas "Ce que tu dis est faux car mon pasteur dit le contraire"
 
 Pour continuer sur ce point :
 - Emmanuel, est un homme à abattre pour Satan, car il enseigne le peuple de Dieu.
@@ -239,30 +244,28 @@ Pour continuer sur ce point :
 Tout ceci étant dit, je me dois tout de même d'apporter une précision **essentielle** sur l'ordre dans l'église.
 - Regardons ce que disait Paul chrétiens de l'église de Corinthe en **1 Corinthiens 14. 26**
 
-```
-26 Que faire donc, frères et sœurs ? Lorsque vous vous réunissez, chacun [de vous] peut apporter un cantique, un enseignement, une révélation, une langue ou une interprétation. Que tout se fasse pour l'édification.
-27 Y en a-t-il qui parlent en langue, que deux ou trois au plus parlent, chacun à son tour, et que quelqu'un interprète.
-28 S'il n'y a pas d'interprète, qu'on se taise dans l'Eglise et qu'on parle à soi-même et à Dieu.
-29 Quant aux prophètes, que deux ou trois parlent, et que les autres évaluent leur message.
-30 Et si un autre membre de l’assistance a une révélation, que le premier se taise.
-31 En effet, vous pouvez tous prophétiser l'un après l'autre, afin que tous soient instruits et que tous soient encouragés.
-32 L’esprit des prophètes est soumis aux prophètes,
-33 car **Dieu n'est pas un Dieu de désordre, mais de paix**. Comme dans toutes les Eglises des saints,
-[...]
-39 Ainsi donc, frères et sœurs, aspirez au don de prophétie et n'empêchez pas de parler en langues,
-40 mais **que tout se fasse convenablement et avec ordre**.
-```
+> 26 Que faire donc, frères et sœurs ? Lorsque vous vous réunissez, chacun [de vous] peut apporter un cantique, un enseignement, une révélation, une langue ou une interprétation. Que tout se fasse pour l'édification.
+> 27 Y en a-t-il qui parlent en langue, que deux ou trois au plus parlent, chacun à son tour, et que quelqu'un interprète.
+> 28 S'il n'y a pas d'interprète, qu'on se taise dans l'Eglise et qu'on parle à soi-même et à Dieu.
+> 29 Quant aux prophètes, que deux ou trois parlent, et que les autres évaluent leur message.
+> 30 Et si un autre membre de l’assistance a une révélation, que le premier se taise.
+> 31 En effet, vous pouvez tous prophétiser l'un après l'autre, afin que tous soient instruits et que tous soient encouragés.
+> 32 L’esprit des prophètes est soumis aux prophètes,
+> 33 car **Dieu n'est pas un Dieu de désordre, mais de paix**. Comme dans toutes les Eglises des saints,
+> [...]
+> 39 Ainsi donc, frères et sœurs, aspirez au don de prophétie et n'empêchez pas de parler en langues,
+> 40 mais **que tout se fasse convenablement et avec ordre**.
 
 Quand je dis de ne pas croire sur parole celui qui vous enseigne, je n'appelle nullement à la révolte ni à la révolution, comprenez-moi bien.
 - Notre Dieu est un Dieu d'ordre et de paix.
 - Il nous appelle à agir convenablement, avec ordre, et dans la paix.
 - Nous sommes des ouvriers de paix, et nous devons "nous efforcer d'être en paix avec tous les hommes autant que cela dépende de nous".
 
-> Le jour donc où vous entendrez ici ou ailleurs quelque chose qui - selon vous - serait anti-biblique :
-> ne vous levez pas en hurlant en plein culte à l'hérésie.
-> Au contraire, priez afin de demander au St-Esprit son soutien, son éclairage, et si Dieu vous confirme ce que vous pensez, demandez Lui ce qu'Il veut que vous fassiez.
-> N'oublions pas non plus que les pasteurs sont des personnes mises en place par Dieu, pour son service.
-> Nous leur devons le respet.
+Le jour donc où vous entendrez ici ou ailleurs quelque chose qui - selon vous - serait anti-biblique :
+- ne vous levez pas en hurlant en plein culte à l'hérésie.
+- Au contraire, priez afin de demander au St-Esprit son soutien, son éclairage, et si Dieu vous confirme ce que vous pensez, demandez Lui ce qu'Il veut que vous fassiez.
+- N'oublions pas non plus que les pasteurs sont des personnes mises en place par Dieu, pour son service.
+- Nous leur devons le **respet**, par égard pour Dieu.
 
 Pour terminer, retenons donc que Dieu souhaite que nous ayons plus de discernement.
 - Cherchons à discerner le bien et le mal dans les enseignements que nous entendons
@@ -276,8 +279,11 @@ Dernier volet que j'aimerai aborder sur cette thématique de "Devenir un chréti
 
 Tout à l'heure je vous partageais mon témoignage sur comment j'ai commencé à servir Dieu dans l'église.
 
-Jésus a dit a Pierre et son frère André **"Suivez-moi, et je ferai de vous des pêcheurs d'hommes"**.
-- Première rencontre, Jésus annonce la couleur : "venez, suivez-moi, je vais faire quelque chose avec vous".
+Jésus a dit a Pierre et son frère André
+> "Suivez-moi, et je ferai de vous des pêcheurs d'hommes".
+
+Première rencontre, Jésus annonce la couleur :
+- "venez, suivez-moi, je vais faire quelque chose avec vous".
 - C'est étonnant comme approche non ?
 - C'est même un peu "cavalier" vous ne trouvez pas ?
 
@@ -298,10 +304,7 @@ Alors en effet : Jésus était Dieu.
 - **fort** Non !
 
 **Jean 14. 12**
-
-```
-En vérité, en vérité, je vous le dis, celui qui croit en moi **fera aussi** les oeuvres que je fais, et il en fera **de plus grandes**, parce que je m'en vais au Père.
-```
+> En vérité, en vérité, je vous le dis, celui qui croit en moi **fera aussi** les oeuvres que je fais, et il en fera **de plus grandes**, parce que je m'en vais au Père.
 
 - *voix plus faibles* Discernement n'oubliez pas hein ! ;)
 
@@ -339,8 +342,8 @@ Rassure-toi donc : **Dieu a un plan pour toi.**
 - c'est parce qu'Il commence déjà à changer ce qui ne va pas,
 - et à nous aider à redresser la bar, avec *douceur* et *amour*.
 
-> Dieu a quelque chose pour toi ce matin, et je ressens ce message tellement fort dans mon coeur, que je sais que Dieu parle en ce moment même.
-> C'est pourquoi je vous proposerai dans quelques minutes des actions très concrètes pour servir dès septembre.
+**Dieu a quelque chose pour toi ce matin, et je ressens ce message tellement fort dans mon coeur, que je sais que Dieu parle en ce moment même.**
+- C'est pourquoi je vous proposerai dans quelques minutes des actions très concrètes pour servir dès septembre.
 
 Je ne le redirai jamais assez :
 - **il y a une joie incroyable, lorsque l'on sert Dieu.**
@@ -355,17 +358,17 @@ Ne croyez pas les mensonges de l'ennemi qui vous dit
 *en incistant* **C'est faux !**
 
 Car il est écrit :
-`"Car mon joug est doux, et mon fardeau léger." (Matthieu 11. 30)`
+> Car mon joug est doux, et mon fardeau léger." (Matthieu 11. 30)
 
 Et il est encore écrit :
-`"Aujourd'hui, si vous entendez la voix de Dieu, ne vous endurcissez pas" (Hébreux 4. 7)`
+> Aujourd'hui, si vous entendez la voix de Dieu, ne vous endurcissez pas" (Hébreux 4. 7)
 
 Et plus haut toujours en Hébreux au chap. 3 cette fois-ci :
-`"Mais encouragez-vous les uns les autres, jour après jour, aussi longtemps qu'on peut dire aujourd'hui, afin qu'aucun d'entre vous ne se laisse tomber par le péché et ne s'endurcisse." (Hébreux 3. 14)`
+> Mais encouragez-vous les uns les autres, jour après jour, aussi longtemps qu'on peut dire aujourd'hui, afin qu'aucun d'entre vous ne se laisse tomber par le péché et ne s'endurcisse." (Hébreux 3. 14)
 
-> C'est aujourd'hui que Dieu parle, et c'est aujourd'hui qu'il faut agir.
-> Si je vous disais autre chose, je mentirai.
-> C'est pourquoi, conformément à la Parole de Dieu, je nous encourage tous à servir, et à s'engager pour Dieu.
+C'est aujourd'hui que Dieu parle, et c'est aujourd'hui qu'il faut agir.
+- Si je vous disais autre chose, je mentirai.
+- C'est pourquoi, conformément à la Parole de Dieu, je nous encourage tous à servir, et à s'engager pour Dieu.
 
 On ne peut pas se nourrir toute sa vie du lait maternel, et espérer grandir correctement et être un adulte en bonne santé.
 - De même, on ne peut pas rester toute sa vie à écouter simplement des enseignements, sans jamais se lever à son tour pour travailler pour le Royaume de Dieu.
