@@ -409,22 +409,23 @@ Nous avons la liberté en Christ **amen** ?
 ---
 ## Conclusion
 
-=> Grandir c'est comme les antibiotiques : c'est pas automatique
-=> On peut rester toute sa vie un bébé spirituel, mais Dieu nous appelle à bien davantage !
+Grandir c'est comme les antibiotiques : c'est pas automatique
+- On peut rester toute sa vie un bébé spirituel,
+- mais Dieu nous appelle à bien davantage !
 
-=> Cherchons à acquérir toujours plus de discernement.
-=> Je nous encourage tous à écouter des prédications sur TopChrétien, à installer l'application sur vos téléphones si vous le souhaitez et le pouvez.
-=> A lire des enseignements sur Internet, à visiter d'autres églises pour voir d'autres façons de faire et entendre d'autres enseignements.
-=> Et dans tout ça, à rester fermement ancré dans la Parole, en examinant toujours si ce que l'on vous dit est conforme à l'enseignement de Dieu.
+Cherchons à acquérir toujours plus de discernement.
+- Je nous encourage tous à écouter des prédications sur TopChrétien, à installer l'application sur vos téléphones si vous le souhaitez et le pouvez.
+- A lire des enseignements sur Internet, à visiter d'autres églises pour voir d'autres façons de faire et entendre d'autres enseignements.
+- Et dans tout ça, à rester fermement ancré dans la Parole, en examinant toujours si ce que l'on vous dit est conforme à l'enseignement de Dieu.
 
-=> Cherchons également à développer notre coeur de serviteur et de servante.
-=> J'ai la conviction que Dieu tient en réserve des bénédictions depuis des années pour plusieurs parmi-nous, et que ces bénédictions ne seront déversées dans nos vies qu'à partir du moment où ces personnes oseront franchir le pas de servir dans l'église.
-=> N'écoutez pas les mensonges de Satan qui cherche à vous faire repousser le jour où vous entrerez au service pour Dieu, car il sait que ce jour-là, il aura perdu une bataille.
-=> Je nous encourage tous à franchir le pas aujourd'hui si ce n'est pas déjà fait, et si c'est déjà fait à réévaluer la qualité du service que nous accomplissons, et si nous jugeons qu'il faut prendre un nouveau départ avec Dieu dans le service, remplissez la petite garde et déposez-la dans l'urne en sortant.
+Cherchons à développer notre coeur de serviteur et de servante.
+- J'ai la conviction que Dieu tient en réserve des bénédictions depuis des années pour plusieurs parmi-nous, et que ces bénédictions ne seront déversées dans nos vies qu'à partir du moment où ces personnes oseront franchir le pas de servir dans l'église.
+- N'écoutez pas les mensonges de Satan qui cherche à vous faire repousser le jour où vous entrerez au service pour Dieu, car il sait que ce jour-là, il aura perdu une bataille.
+- Je nous encourage tous à franchir le pas aujourd'hui si ce n'est pas déjà fait, et si c'est déjà fait à réévaluer la qualité du service que nous accomplissons, et si nous jugeons qu'il faut prendre un nouveau départ avec Dieu dans le service, remplissez la petite garde et déposez-la dans l'urne en sortant.
 
-=> Nous avons un Dieu, un grand, un Dieu qui n'a oublié et qui n'oublie personne.
-=> C'est lui qui produit le vouloir et le faire dit Sa Parole.
-=> Laissons le St-Esprit produire du fruit en nous, laissons-nous transformer et renouveler par Dieu.
-=> Aspirons à être des chrétiens mâtures, car c’est vraiment le meilleur qu’il puisse nous arriver.
+Nous avons un Dieu, un grand, un Dieu qui n'a oublié et qui n'oublie personne.
+- C'est lui qui produit le vouloir et le faire dit Sa Parole.
+- Laissons le St-Esprit produire du fruit en nous, laissons-nous transformer et renouveler par Dieu.
+- Aspirons à être des chrétiens mâtures, car c’est vraiment le meilleur qu’il puisse nous arriver.
 
 **Prière de conclusion**
