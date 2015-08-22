@@ -5,14 +5,14 @@
 
 ## Introduction
 
-Jésus disait :
+Jésus disait à Nicodème :
 
 **Jean 3. 1-6**
 
-> 1 Or, il y avait parmi les pharisiens un homme du nom de Nicodème, un chef des Juifs.
+<!-- > 1 Or, il y avait parmi les pharisiens un homme du nom de Nicodème, un chef des Juifs.
 > 2 Il vint de nuit trouver Jésus et lui dit : "Maître, nous savons que tu es un enseignant envoyé par Dieu, car personne ne peut faire ces signes miraculeux que tu fais si Dieu n'est pas avec lui."
 > 3 Jésus lui répondit : "En vérité, en vérité, je te le dis, **à moins de naître de nouveau**, personne ne peut voir le royaume de Dieu."
-> 4 Nicodème lui dit : "Comment un homme peut-il naître quand il est vieux ? Peut-il une seconde fois entrer dans le ventre de sa mère et naître ?"
+> 4 Nicodème lui dit : "Comment un homme peut-il naître quand il est vieux ? Peut-il une seconde fois entrer dans le ventre de sa mère et naître ?" -->
 > **[CLIC]** 5 Jésus répondit : "En vérité, en vérité, je te le dis, **à moins de naître d'eau et d'Esprit**, on ne peut entrer dans le royaume de Dieu."
 > 6 Ce qui est né de parents humains est humain et ce qui est né de l'Esprit est Esprit.
 
@@ -82,7 +82,7 @@ On peut rester toute sa vie un bébé spirituel, mais Dieu nous appelle à bien 
 Pour ceux qui étaient présents l'été dernier, j'avais déjà prêché sur le sujet de la maturité spirituelle.
 Je vous avais présenté 5 domaines dans lesquels Dieu nous appelle dans la Bible à devenir adulte :
 
-1. L'adoration
+1. **[CLIC]** L'adoration
 2. La communion fraternelle
 3. La connaissance
 4. La service dans l'église
@@ -122,7 +122,7 @@ Sachez donc que la lettre aux hébreux est très mystérieuse :
 Lisons ensenmble **Hébreux 5. 11-14**.
 
 > 11 Nous avons beaucoup à dire à ce sujet, et des choses difficiles à expliquer parce que vous êtes **devenus lents à comprendre**.
-12 Alors que vous devriez avec le temps être des **enseignants**, vous en êtes au point d’avoir besoin qu'on vous enseigne **les éléments de base** de la révélation de Dieu ; vous en êtes arrivés à avoir > besoin de **lait** et non d'une **nourriture solide**.
+12 Alors que vous devriez avec le temps être des **enseignants**, vous en êtes au point d’avoir besoin qu'on vous enseigne **les éléments de base** de la révélation de Dieu ; vous en êtes arrivés à avoir besoin de **lait** et non d'une **nourriture solide**.
 > 13 Or celui qui en est au lait est inexpérimenté dans la parole de justice, car il est un petit enfant.
 > 14 Mais la nourriture solide est pour les **adultes**, pour ceux qui, en raison de leur expérience, ont le jugement **exercé à discerner ce qui est bien et ce qui est mal**.
 
@@ -231,12 +231,12 @@ J'ai pour habitude de dire que la Bible est un livre concret et pratique.
    - Le but c'est de réussir à dire "Ce qui est dit ici est faux, car voici ce que dit la Parole"
    - et non pas "Ce que tu dis est faux car mon pasteur dit le contraire"
 
-Pour continuer sur ce point :
+<!-- Pour continuer sur ce point :
 - Emmanuel, est un homme à abattre pour Satan, car il enseigne le peuple de Dieu.
 - Je suis un homme à abattre pour Satan, car j'enseigne également.
 - Les enseignements de l'éveil à la foi, des jeunes, tous les enseignements de l'église sont des cibles de premier ordre pour notre ennemi.
 - Je le redis et j'insiste : aucun pasteur, aucun prédicateur et aucun enseignement n'est à l'abri de l'ennemi
-- C'est pourquoi : prions pour l'Eglise de Dieu, l'Epouse de Christ, pour tous ses enseignements afin qu'ils persévèrent dans la foi, et faisons preuve de discernement et de critique - éclairée par la Parole de Dieu, afin de ne pas nous laisser égarer au jour de l'épreuve.
+- C'est pourquoi : prions pour l'Eglise de Dieu, l'Epouse de Christ, pour tous ses enseignements afin qu'ils persévèrent dans la foi, et faisons preuve de discernement et de critique - éclairée par la Parole de Dieu, afin de ne pas nous laisser égarer au jour de l'épreuve. -->
 
 ### L'ordre dans l'église
 
@@ -250,7 +250,7 @@ Tout ceci étant dit, je me dois tout de même d'apporter une précision **essen
 > 30 Et si un autre membre de l’assistance a une révélation, que le premier se taise.
 > 31 En effet, vous pouvez tous prophétiser l'un après l'autre, afin que tous soient instruits et que tous soient encouragés.
 > 32 L’esprit des prophètes est soumis aux prophètes,
-> **[CLIC]** 33 car **Dieu n'est pas un Dieu de désordre, mais de paix**. Comme dans toutes les Eglises des saints,
+> **[CLIC]** 33 car **Dieu n'est pas un Dieu de désordre, mais de paix**.
 > [...]
 > 39 Ainsi donc, frères et sœurs, aspirez au don de prophétie et n'empêchez pas de parler en langues,
 > 40 mais **que tout se fasse convenablement et avec ordre**.
@@ -381,7 +381,7 @@ Je sais qu'il y a
 
 ### Distribution des cartes
 
-Voici donc ce que nous allons faire :
+Ecoutez, voici donc ce que nous allons faire :
 - je vais vous faire passer de petites cartes, sur lesquelles il est inscrit "Je veux devenir un chrétien mâture en servant Dieu..."
 - En dessous il y a deux cases :
    - "... mais je ne sais pas ce que je pourrai faire"
