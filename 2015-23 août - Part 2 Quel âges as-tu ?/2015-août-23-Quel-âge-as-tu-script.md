@@ -1,4 +1,5 @@
-*Prédication dimanche 23 août 2015*
+*Prédication du dimanche 23 août 2015*
+*Par Arnaud Lenglet - Eglise de Dieu à Vauréal*
 
 # "Quel âge as-tu ?"
 
